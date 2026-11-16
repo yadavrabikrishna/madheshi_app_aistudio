@@ -1,0 +1,6 @@
+{
+  "name": "Madheshi App",
+  "description": "Madheshi App V1 - News from Madheshi.com, Simple & Compound Interest Calculator, Nepali Age Calculator (AD & BS), and Nepal Land Area Converter (Bigha & Ropani).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
